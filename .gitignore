@@ -1,0 +1,11 @@
+# Ignore Conda environment folders
+env/
+*.pyc
+__pycache__/
+.DS_Store
+#Ignore images
+*.png
+*.jpeg
+*.jpg
+#ignore weight can be downloaded elsewhere
+mask_rcnn_coco.h5
