@@ -64,6 +64,6 @@ for filename in os.listdir(folder_path):
                                   masks=r['masks'], 
                                   class_ids=r['class_ids'], 
                                   class_names=CLASS_NAMES, 
-                                  scores=r['scores'], out_name=("output/" + filename), filter_classes=[CLASS_NAMES.index('person')])
+                                  scores=r['scores'], out_name=("output/" + filename))
 
     #run detectron2 on same image
