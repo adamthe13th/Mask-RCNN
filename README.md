@@ -1,13 +1,13 @@
-Description:
+#Description:
 This project is all about fixing compatibility problems in an older TensorFlow/Keras repo to make it work with newer versions. I’ve updated the code, tested it, and set everything up in a Python virtual environment to make it easy to run. There’s also a Conda environment file (environment.yml) if you prefer using Conda to set things up on your own system.
 
-What’s in the project?
+##What’s in the project?
 
     Fixed code for modern TensorFlow/Keras versions.
     A virtual environment so you don’t have to worry about dependency headaches.
     A Conda environment file for those who want extra portability.
 
-Setup & getting started
+##Setup & getting started
 
 1. **Conda Env Setup**
    ```bash
