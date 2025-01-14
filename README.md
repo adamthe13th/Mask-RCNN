@@ -1,5 +1,5 @@
 # Description:
-This project is all about fixing compatibility problems in an older TensorFlow/Keras repo to make it work with newer versions. I’ve updated the code, tested it, and set everything up in a Python virtual environment to make it easy to run. There’s also a Conda environment file (environment.yml) if you prefer using Conda to set things up on your own system.
+This project is all about fixing compatibility problems in the older Mask-RCNN repo using deprecated version of TensorFlow/Keras to make it work with newer versions. I’ve updated the code, tested it, and set everything up in a Python virtual environment to make it easy to run. There’s also a Conda environment file (environment.yml) if you prefer using Conda to set things up on your own system.
 
 ## What’s in the project?
 
