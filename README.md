@@ -18,6 +18,6 @@ This project is all about fixing compatibility problems in an older TensorFlow/K
    Download the pre-trained weights inside the root directory (maskrcnn). The weights can be downloaded from this link: https://github.com/ahmedfgad/Mask-RCNN-TF2/releases/download/v3.0/mask_rcnn_coco.h5.
 
 3. **getting started**
-   -store images in the "test_image" or the "image_test" directories (a choice is given later which directory to run in)
-   -if not already in the root directory ```cd maskrcnn```
-   -run ```python maskrcnn_predict.py```
+   - store images in the "test_image" or the "image_test" directories (a choice is given later which directory to run in)
+   - if not already in the root directory ```cd maskrcnn```
+   - run ```python maskrcnn_predict.py```
